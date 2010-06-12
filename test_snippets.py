@@ -12,6 +12,10 @@ This comment should not be indented, and a blank line after it is required
 to preserve Markdown parsing. No closing marker is needed; the blank line 
 after the code block is sufficient. Skipped test lines are printed to the 
 console.
+
+Author: Paul Bissex <pb@e-scribe.com>
+License: MIT
+Project: http://withdjango.com/
 """
 
 import doctest
