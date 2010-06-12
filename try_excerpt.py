@@ -27,6 +27,10 @@ When run on files where the snippets have already been inserted,
 it will endeavor to replace them cleanly. There are no particular
 guarantees it will be successful at this, hence the "try" part 
 of the name :)
+
+Author: Paul Bissex <pb@e-scribe.com>
+License: MIT
+Project: http://withdjango.com/
 """
 
 import os
